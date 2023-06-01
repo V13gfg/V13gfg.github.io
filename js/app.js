@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et illum perferendis quas doloremque unde aut molestiae omnis ad! Illo minus suscipit nobis ea, odit eligendi commodi sapiente corporis fugiat itaque maiores?';
+var txt = "Я в своем познании настолько преисполнился, что я как будто бы уже сто триллионов миллиардов лет проживаю на триллионах и триллионах таких же планет, как эта Земля, мне этот мир абсолютно понятен, и я здесь ищу только одного - покоя, умиротворения и вот этой гармонии, от слияния с бесконечно вечным, от созерцания великого фрактального подобия и от вот этого замечательного всеединства существа, бесконечно вечного, куда ни посмотри, хоть вглубь - бесконечно малое, хоть ввысь - бесконечное большое, понимаешь?";
 var speed = 30;
 
 function typeWriter() {
